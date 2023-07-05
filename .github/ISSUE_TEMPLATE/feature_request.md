@@ -7,15 +7,6 @@ assignees: ''
 
 ---
 
----
-name: "\U0001F680 Feature Request"
-about: "I have a suggestion (and may want to implement it \U0001F642)!"
-title: ''
-labels: 'i: enhancement, i: needs triage'
-assignees: ''
-
----
-
 ## Feature Request
 
 **Is your feature request related to a problem? Please describe.**
